@@ -1,0 +1,14 @@
+<!-- CORRECT -->
+<resources>
+        <string name="app_name">Habit Tracker</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="delete_account" />
+
+        <!-- Array example -->
+        <string-array name="frequency_options">
+                <item>Daily</item>
+                <item>Weekly</item>
+                <item>Monthly</item>
+        </string-array>
+</resources>

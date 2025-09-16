@@ -1,0 +1,16 @@
+<resources>
+    <!-- This is CORRECT - empty items -->
+    <item name="navigation_habits" type="id" />
+    <item name="navigation_quotes" type="id" />
+    <item name="navigation_badges" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="action_logout" type="id" />
+    <item name="password" type="id" />
+    <item name="progress_bar" type="id" />
+    <item name="login_button" type="id" />
+    <item name="signup_redirect" type="id" />
+    <item name="signup_button" type="id" />
+    <item name="confirm_password" type="id" />
+    <item name="login_redirect" type="id" />
+    <item name="email" type="id" />
+</resources>
